@@ -1,0 +1,113 @@
+.reg-main {
+    text-align: center;
+    justify-content: center;
+    background-image: url("../image/robot-nod32-eset-wallpaper-black-background.jpg");
+    padding-left: 100px;
+    background-position: top;
+    background-size: cover;
+    height: 100vh;
+}
+
+.reg-sub-main {
+    display: flex;
+    justify-content: center;
+    height: 90%;
+    width: 35%;
+    box-shadow: 11px 12px 13px 12px #499eb5;
+    position: relative;
+    top: 39px;
+    border-radius: 60px;
+    background-color: rgb(0, 0, 0);
+}
+
+.reg-imgs {
+    padding-top: 20px;
+    justify-content: center;
+    display: flex;
+}
+
+.reg-container-image {
+    background-color: rgb(245, 24, 24);
+    border-radius: 150px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 115px;
+    width: 115px;
+}
+
+.reg-profile {
+    height: 100px;
+    width: 100px;
+    border-radius: 130px;
+}
+
+.reg-login-heading {
+    color: #499eb5;
+}
+
+.reg-email {
+    height: 17px;
+    width: 17px;
+    position: absolute;
+    padding: 14px 0 0 25px;
+}
+
+.reg-name {
+    width: 287px;
+    height: 33px;
+    border-radius: 60px;
+    box-shadow: inset 0px 0px 25px 0px #888;
+    border: none;
+    outline: none;
+    background-color: #fff;
+    padding-left: 70px;
+    padding-right: 20px;
+    font-size: 20px;
+}
+
+.reg-second-input {
+    padding-top: 15px;
+}
+
+#reg-termscondition {
+    width: unset;
+    height: unset;
+    border-radius: unset;
+    box-shadow: inset 0px 0px 5px 0px #888;
+    border: none;
+    outline: none;
+    background-color: #fff;
+    margin-top: 20px;
+}
+label{
+    color: #fff;
+}
+
+.reg-login-button button {
+    width: 359px;
+    height: 40px;
+    border-radius: 60px;
+    background-color: #499eb5;
+    color: white;
+    font-size: 25px;
+    border: none;
+    cursor: pointer;
+}
+
+.reg-login-button {
+    padding-top: 15px;
+
+}
+
+.reg-link {
+    font-size: small;
+    font-weight: 400;
+}
+
+a {
+    color: #28003e;
+    text-decoration: none;
+    text-shadow: 1px 1px 2px #888;
+
+}
